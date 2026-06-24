@@ -9,8 +9,8 @@ Given a set of protein variants and a per-variant label, it trains a supervised 
 predict the label from sequence and reports held-out performance (Spearman correlation for
 regression; ROC-AUC for classification).
 
-This is intended as a clean, honest baseline and a demonstration of an end-to-end,
-leakage-aware modeling pipeline — not a state-of-the-art predictor.
+This is intended as a clean baseline and a demonstration of an end-to-end,
+leakage-aware modeling pipeline not a state-of-the-art predictor.
 
 
 ## Task types (auto-detected)
