@@ -1,6 +1,6 @@
 # protein-variant-effect
 
-A compact, reproducible baseline for predicting **protein variant effects from sequence** —
+A compact, reproducible baseline for predicting **protein variant effects from sequence**,
 built as a clean ML pipeline rather than a state-of-the-art predictor. It handles both
 clinical pathogenicity (Benign/Pathogenic classification) and deep-mutational-scanning (DMS)
 fitness (regression), with multiple feature modes and rigorous, leakage-aware evaluation.
