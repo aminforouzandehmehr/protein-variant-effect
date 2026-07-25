@@ -3,7 +3,7 @@
 [![tests](https://github.com/aminforouzandehmehr/protein-variant-effect/actions/workflows/ci.yml/badge.svg)](https://github.com/aminforouzandehmehr/protein-variant-effect/actions/workflows/ci.yml)
 
 A compact, reproducible baseline for predicting **protein variant effects from sequence**,
-built as a clean ML pipeline rather than a state-of-the-art predictor. It handles both
+built as a clean ML pipeline. It handles both
 clinical pathogenicity (Benign/Pathogenic classification) and deep-mutational-scanning (DMS)
 fitness (regression), with multiple feature modes and rigorous, leakage-aware evaluation.
 
@@ -13,7 +13,7 @@ baselines**, so that "did the model actually learn anything?" is answered rather
 assumed.
 
 This is intended as a clean baseline and a demonstration of an end-to-end, leakage-aware
-modeling pipeline — not a state-of-the-art predictor.
+modeling pipeline.
 
 ## Task types (auto-detected)
 
