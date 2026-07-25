@@ -4,7 +4,7 @@ The public surface is deliberately small; ``seq2function.py`` is the CLI that
 wires these pieces together.
 """
 
-__version__ = "2.0.0"
+__version__ = "2.0.1"
 
 __all__ = [
     "aaindex",
