@@ -1,0 +1,6 @@
+# Optional: ESM-2 features (--features esm) and the ESM zero-shot baseline
+# (--zeroshot esm). Installed separately because torch is a large download and
+# everything else in the pipeline runs without it.
+-r requirements.txt
+torch>=2.0
+fair-esm>=2.0
